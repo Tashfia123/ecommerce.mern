@@ -23,7 +23,7 @@ Tashfia Essentials is an ecommerce site developed using the MERN (MongoDB, Expre
 
 ## Features
 
-- User Registration & Authentication:
+User Registration & Authentication:
  Users can register as either customers or sellers. Different authentication methods are provided, including Google OAuth, JWT, and session-based authentication for flexibility.
 
 
