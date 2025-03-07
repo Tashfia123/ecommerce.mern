@@ -10,11 +10,18 @@ Become a seller and add products, monitor sales, and gather customer feedback.
 <br>
 
 
+<<<<<<< HEAD
 <br><br>
 
 # About
 
 It is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
+=======
+
+# About
+
+Tashfia Essentials is an ecommerce site developed using the MERN (MongoDB, Express.js, React, Node.js) stack. It offers a user-friendly and efficient shopping experience for customers, while providing sellers with essential tools to manage their products and sales.
+>>>>>>> 5150b5fff492a300a690090f476c6e7769d3da73
 
 ## Features
 
