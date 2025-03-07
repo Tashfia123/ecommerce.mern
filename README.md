@@ -23,19 +23,36 @@ Tashfia Essentials is an ecommerce site developed using the MERN (MongoDB, Expre
 
 ## Features
 
-- **User Registration:**  allows users to register as customers or sellers, enabling a tailored shopping experience.
+- User Registration & Authentication:
+ Users can register as either customers or sellers. Different authentication methods are provided, including Google OAuth, JWT, and session-based authentication for flexibility.
 
-- **Cart System:** Customers can add products to their cart for easy checkout. The cart allows them to review and manage their selections before completing the purchase.
 
-- **Product Search:**  offers a search functionality where customers can find products by name or browse through categories such as Electronics, Clothes, Kitchen, and more.
+Cart System:
+ Customers can add products to their cart, review their selections, and checkout with ease. The cart dynamically updates as users add or remove products.
 
-- **Reviews and Ratings:** Customers can leave reviews and ratings (out of 5) for products they've purchased, providing valuable feedback for sellers and building trust within the community.
 
-- **Seller Dashboard:** Sellers have access to a dedicated dashboard where they can manage their products, view sales data, and gain insights into their store's performance through data visualization.
+Product Search:
+ Customers can search for products by name or category (Electronics, Clothes, Kitchen, etc.). Filtering and sorting features allow for easy navigation through products.
 
-- **Product Management:** Sellers can add products with detailed information and set their prices. They can also check which customers have added their products to their carts.
 
-- **Order Tracking:** Sellers can monitor the products ordered by customers, helping them stay organized and fulfill orders efficiently.
+Reviews and Ratings:
+ Customers can leave feedback on products with a 1-level comment and rating system (1-5 stars). This helps improve product visibility and provides feedback to sellers.
+
+
+Seller Dashboard (Report Generation):
+ Sellers have access to a dashboard for managing their products, tracking sales, and viewing store performance through data visualizations such as charts. The dashboard helps sellers analyze performance and manage product inventories.
+
+
+Product Management:
+ Sellers can easily add new products with descriptions, prices, and inventory management features. They can view which customers have added products to their cart, improving sales insights.
+
+
+Order Tracking:
+ Sellers can track customer orders to ensure timely processing and fulfillment. They can manage and view the status of each order placed.
+
+
+
+
 
 ## Technologies Used
 
